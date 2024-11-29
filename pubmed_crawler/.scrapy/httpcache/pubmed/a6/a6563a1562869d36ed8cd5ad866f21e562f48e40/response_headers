@@ -1,0 +1,20 @@
+Date: Fri, 29 Nov 2024 19:48:20 GMT
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: origin
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Cross-Origin-Opener-Policy: same-origin
+Content-Encoding: gzip
+Set-Cookie: pm-sid=XRn1Dl2qzyY1Afd0GHvA-w:5ad5a4cc74d3ffacc437dbb4869b8209; Domain=pubmed.ncbi.nlm.nih.gov; Path=/; Secure
+Set-Cookie: pm-adjnav-sid=iOiAdqgrTgXcQW_Kubz7Zg:5ad5a4cc74d3ffacc437dbb4869b8209; Domain=pubmed.ncbi.nlm.nih.gov; Path=/; Secure
+Set-Cookie: pm-csrf=dbBLT6DcCxvpC2ukmRemtvHdjpSGvhvF; expires=Fri, 28 Nov 2025 19:48:20 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+Set-Cookie: pm-sessionid=dv7r1lpgtb1i5t7m97eibwrspswoey2a; expires=Sat, 30 Nov 2024 03:48:20 GMT; HttpOnly; Max-Age=28800; Path=/; Secure
+Set-Cookie: ncbi_sid=F35E9D7C749FC673_18904SID; Domain=.nih.gov; expires=Sat, 29 Nov 2025 19:48:20 GMT; HttpOnly; Max-Age=31536000; Path=/; Secure
+X-Ua-Compatible: IE=Edge
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
