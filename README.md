@@ -120,4 +120,11 @@ O en la consola de SQLite:
 * Respeto a las oolíticas del sitio: El crawler respeta las directivas de robots.txt y limita la carga en el servidor mediante retrasos y límites en las solicitudes.
 * Datos públicos: El crawler solo extrae información disponible públicamente y no accede a datos privados o protegidos.
 
+### Datos personales
+* Nombre completo: Hernández Cortez Kevin Uriel.
+* Código: 217734547.
+* Materia: Programación para internet - D17.
+* Profesor: Guzman Montes Carlos Alberto.
+* Fecha 29/11/24
+
 Disfruta rastreando PubMed de manera eficiente y ética con PubMed Crawler! 🕸️✨
