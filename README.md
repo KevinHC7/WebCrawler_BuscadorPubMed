@@ -20,6 +20,7 @@
 
 ## 💻 Tecnologías usadas
 - **Python 3**
+- **Chrome 114**
 - **Scrapy**: Framework para la extracción de datos web.
 - **Langid**: Biblioteca para la detección de idioma.
 - **GeoIP2**: Para determinar la ubicación geográfica de los servidores.
